@@ -1,0 +1,8 @@
+install.packages("blogdown")
+? blogdown::new_site
+blogdown::new_site()
+install.packages("magrittr")
+blogdown::serve_site()
+blogdown:::serve_site()
+blogdown::stop_server(),
+blogdown::stop_server()
